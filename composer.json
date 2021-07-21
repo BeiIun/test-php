@@ -1,0 +1,9 @@
+{
+    "name": "utilisateur/blog",
+    "autoload": {
+        "psr-4": {
+            "Utilisateur\\Blog\\": "src/"
+        }
+    },
+    "require": {}
+}
